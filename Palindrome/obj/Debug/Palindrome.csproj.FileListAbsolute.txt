@@ -1,0 +1,7 @@
+C:\Users\Alfonso-PC\Desktop\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Alfonso-PC\Desktop\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Alfonso-PC\Desktop\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Alfonso-PC\Desktop\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\Alfonso-PC\Desktop\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Alfonso-PC\Desktop\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Alfonso-PC\Desktop\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
